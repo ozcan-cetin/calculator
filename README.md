@@ -1,6 +1,7 @@
 # calculator
 
 [Click here](https://ozcan-cetin.github.io/calculator/)
+![](https://github.com/ozcan-cetin/calculator/blob/master/calculator.gif)
 
 This  is a basic calculator project. I used CSS grid in this project. I tried to explain this project below.
 
